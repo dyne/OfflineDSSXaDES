@@ -1,0 +1,50 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProvaDSS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProvaDSS_jar</output-path>
+    <root id="archive" name="ProvaDSS.jar">
+      <element id="module-output" name="ProvaDSS" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/specs-xades/5.12/specs-xades-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/istack/istack-commons-runtime/3.0.12/istack-commons-runtime-3.0.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-detailed-report-jaxb/5.12/dss-detailed-report-jaxb-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-utils/5.12/dss-utils-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-simple/2.0.7/slf4j-simple-2.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jakarta/xml/bind/jakarta.xml.bind-api/2.3.3/jakarta.xml.bind-api-2.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-document/5.12/dss-document-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/glassfish/jaxb/jaxb-runtime/2.3.8/jaxb-runtime-2.3.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-diagnostic-jaxb/5.12/dss-diagnostic-jaxb-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bouncycastle/bcprov-jdk18on/1.72/bcprov-jdk18on-1.72.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-spi/5.12/dss-spi-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-token/5.12.1/dss-token-5.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-xades/5.12/dss-xades-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/digidoc4j/dss/dss-utils-apache-commons/5.11.1.d4j.1/dss-utils-apache-commons-5.11.1.d4j.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-lang3/3.12.0/commons-lang3-3.12.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/digidoc4j/dss/dss-utils/5.11.1.d4j.1/dss-utils-5.11.1.d4j.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/specs-xmldsig/5.12/specs-xmldsig-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-policy-jaxb/5.12/dss-policy-jaxb-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bouncycastle/bcutil-jdk18on/1.72/bcutil-jdk18on-1.72.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/bouncycastle/bcpkix-jdk18on/1.72/bcpkix-jdk18on-1.72.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/2.0.7/slf4j-api-2.0.7.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/commons/commons-collections4/4.4/commons-collections4-4.4.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-crl-parser/5.12/dss-crl-parser-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/codehaus/woodstox/stax2-api/4.2.1/stax2-api-4.2.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/specs-validation-report/5.12/specs-validation-report-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fasterxml/woodstox/woodstox-core/6.5.0/woodstox-core-6.5.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-jaxb-parsers/5.12/dss-jaxb-parsers-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/glassfish/jaxb/txw2/2.3.8/txw2-2.3.8.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-simple-report-jaxb/5.12/dss-simple-report-jaxb-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.15/commons-codec-1.15.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/specs-trusted-list/5.12/specs-trusted-list-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-jaxb-common/5.12/dss-jaxb-common-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-i18n/5.12/dss-i18n-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-simple-certificate-report-jaxb/5.12/dss-simple-certificate-report-jaxb-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/jakarta/activation/jakarta.activation-api/1.2.2/jakarta.activation-api-1.2.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/santuario/xmlsec/2.3.3/xmlsec-2.3.3.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-alert/5.12/dss-alert-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-enumerations/5.12.1/dss-enumerations-5.12.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/validation-policy/5.12/validation-policy-5.12.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/eu/europa/ec/joinup/sd-dss/dss-model/5.12.1/dss-model-5.12.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
